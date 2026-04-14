@@ -1,0 +1,15 @@
+// {
+//     "recommendations": [
+//         "shalldie.background"
+//     ]
+// }
+"background.enabled": true,
+"background.useDefault": false,
+"background.customImages": [
+    "file:///C:/path-to-your-image/image.jpg"
+],
+"background.style": {
+    "opacity": 0.3,
+    "background-position": "center",
+    "background-size": "cover"
+}
